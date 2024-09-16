@@ -1,0 +1,241 @@
+# depslib dependency file v1.0
+1682540635 source:c:\coursework sda\main.c
+	"Algorithm.h"
+	"Array.h"
+
+1682437623 source:c:\coursework sda\algorithm.c
+	"Algorithm.h"
+
+1682438704 c:\coursework sda\algorithm.h
+	<time.h>
+	<math.h>
+
+1682437948 source:c:\coursework sda\array.c
+	"Array.h"
+
+1682438875 c:\coursework sda\array.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1682437948 c:\coursework sda\measurement.h
+	<time.h>
+
+1680551806 c:\coursework sda\measurement_2.h
+	<time.h>
+
+1682536611 source:c:\coursework sda\measurement.c
+	"Algorithm.h"
+	"Array.h"
+	"General_data.h"
+	"Sorter.h"
+	"Measurement.h"
+
+1680700900 c:\coursework sda\general_data.h
+	<time.h>
+
+1680700900 c:\coursework sda\sorter.h
+
+1682531382 source:c:\coursework sda\sorter.c
+	"Sorter.h"
+	"General_data.h"
+
+1682440782 source:c:\coursework sda\menu_puncts.c
+	"menu_puncts.h"
+	"Measurement.h"
+	"decorations.h"
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+	<locale.h>
+
+1682440782 c:\coursework sda\menu_puncts.h
+
+1682536610 source:c:\coursework sda\decorations.c
+	"decorations.h"
+
+1682439184 c:\coursework sda\decorations.h
+	<stdio.h>
+	<stdlib.h>
+
+1680611768 source:d:\coursework sda\algorithm.c
+	"Algorithm.h"
+
+1680697908 d:\coursework sda\algorithm.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1680697908 source:d:\coursework sda\array.c
+	"Array.h"
+
+1680697908 d:\coursework sda\array.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1680702538 source:d:\coursework sda\decorations.c
+	"decorations.h"
+
+1680699538 d:\coursework sda\decorations.h
+
+1680691114 source:d:\coursework sda\main.c
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+	<locale.h>
+	"Algorithm.h"
+	"Array.h"
+	"Measurement.h"
+
+1680697908 d:\coursework sda\measurement.h
+	<time.h>
+
+1680697908 source:d:\coursework sda\measurement.c
+	"Algorithm.h"
+	"Array.h"
+	"General_data.h"
+	"Sorter.h"
+
+1680700900 d:\coursework sda\general_data.h
+	<time.h>
+
+1680700900 d:\coursework sda\sorter.h
+
+1680699762 source:d:\coursework sda\menu_puncts.c
+	"menu_puncts.h"
+	"Algorithm.h"
+	"Array.h"
+	"Measurement.h"
+	"decorations.h"
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+	<locale.h>
+
+1680697908 d:\coursework sda\menu_puncts.h
+
+1680697908 source:d:\coursework sda\sorter.c
+	"Sorter.h"
+	"General_data.h"
+
+1680611768 source:c:\Курсова робота СДА\coursework sda last working\algorithm.c
+	"Algorithm.h"
+
+1680697908 c:\Курсова робота СДА\coursework sda last working\algorithm.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1680697908 source:c:\Курсова робота СДА\coursework sda last working\array.c
+	"Array.h"
+
+1680697908 c:\Курсова робота СДА\coursework sda last working\array.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1680702538 source:c:\Курсова робота СДА\coursework sda last working\decorations.c
+	"decorations.h"
+
+1680699538 c:\Курсова робота СДА\coursework sda last working\decorations.h
+
+1680691114 source:c:\Курсова робота СДА\coursework sda last working\main.c
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+	<locale.h>
+	"Algorithm.h"
+	"Array.h"
+	"Measurement.h"
+
+1680697908 c:\Курсова робота СДА\coursework sda last working\measurement.h
+	<time.h>
+
+1680697908 source:c:\Курсова робота СДА\coursework sda last working\measurement.c
+	"Algorithm.h"
+	"Array.h"
+	"General_data.h"
+	"Sorter.h"
+
+1680700900 c:\Курсова робота СДА\coursework sda last working\general_data.h
+	<time.h>
+
+1680700900 c:\Курсова робота СДА\coursework sda last working\sorter.h
+
+1680699762 source:c:\Курсова робота СДА\coursework sda last working\menu_puncts.c
+	"menu_puncts.h"
+	"Algorithm.h"
+	"Array.h"
+	"Measurement.h"
+	"decorations.h"
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+	<locale.h>
+
+1680697908 c:\Курсова робота СДА\coursework sda last working\menu_puncts.h
+
+1680697908 source:c:\Курсова робота СДА\coursework sda last working\sorter.c
+	"Sorter.h"
+	"General_data.h"
+
+1682437623 source:c:\kv-21_kuksa\coursework sda\algorithm.c
+	"Algorithm.h"
+
+1682438704 c:\kv-21_kuksa\coursework sda\algorithm.h
+	<time.h>
+	<math.h>
+
+1682544344 source:c:\kv-21_kuksa\coursework sda\array.c
+	"Array.h"
+
+1682438875 c:\kv-21_kuksa\coursework sda\array.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1682536610 source:c:\kv-21_kuksa\coursework sda\decorations.c
+	"decorations.h"
+
+1682439184 c:\kv-21_kuksa\coursework sda\decorations.h
+	<stdio.h>
+	<stdlib.h>
+
+1682850501 source:c:\kv-21_kuksa\coursework sda\main.c
+	"menu_puncts.h"
+
+1682440782 c:\kv-21_kuksa\coursework sda\menu_puncts.h
+
+1682536611 source:c:\kv-21_kuksa\coursework sda\measurement.c
+	"Algorithm.h"
+	"Array.h"
+	"General_data.h"
+	"Sorter.h"
+	"Measurement.h"
+
+1680700900 c:\kv-21_kuksa\coursework sda\general_data.h
+	<time.h>
+
+1680700900 c:\kv-21_kuksa\coursework sda\sorter.h
+
+1682437948 c:\kv-21_kuksa\coursework sda\measurement.h
+	<time.h>
+
+1682440782 source:c:\kv-21_kuksa\coursework sda\menu_puncts.c
+	"menu_puncts.h"
+	"Measurement.h"
+	"decorations.h"
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+	<locale.h>
+
+1682531382 source:c:\kv-21_kuksa\coursework sda\sorter.c
+	"Sorter.h"
+	"General_data.h"
+
